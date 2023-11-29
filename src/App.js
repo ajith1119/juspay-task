@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-function App({ complist, update_list }) {
+function App({ complist }) {
   const classes = useStyles();
 
   // Update Lists of Mid Area
